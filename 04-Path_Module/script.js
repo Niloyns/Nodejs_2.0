@@ -1,3 +1,19 @@
+// ----------------------------
+// 🧠 Path Module Notes (Simple)
+// ----------------------------
+// 1. __dirname  => Directory of current file
+// 2. __filename => Full path with filename
+// 3. path.join  => Join paths in a safe way
+// 4. path.parse => Get file parts (ext, base, dir, name)
+// 5. path.resolve => Convert to absolute path
+// 6. path.extname => Get file extension
+// 7. path.basename => Get file name
+// 8. path.dirname => Get folder path
+
+
+
+
+
 // path module built-ins: __dirname and __filename
 
 // __dirname gives the full path of the directory where the current file is located
