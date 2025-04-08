@@ -1,7 +1,7 @@
 // ------------------------ OS Module Notes ------------------------ //
 
 // Import the built-in 'os' module to access system information
-const os = require('os');
+const os = require("os");
 
 // os.arch(): Returns the CPU architecture (e.g., 'x64')
 console.log("CPU Architecture:", os.arch());
