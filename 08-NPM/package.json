@@ -1,0 +1,16 @@
+{
+  "name": "08-npm",
+  "version": "1.0.0",
+  "description": "Niloy Sarkar",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Niloy Sarkar",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "validator": "^13.15.0"
+  }
+}
