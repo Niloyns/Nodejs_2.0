@@ -1,4 +1,4 @@
-// fs core module
+// synchronously fs core module
 
 // require fs core module
 let fs = require("fs");
